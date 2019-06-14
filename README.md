@@ -1,7 +1,7 @@
 # Money_Transfer
 A Demo money transfer Rest Service
 
-# Technologies
+# Technologies Used
 
     JAX-RS API
     H2 in memory database
@@ -18,7 +18,7 @@ H2 in memory database initialized with some sample user and account data To view
     http://localhost:8080/account/1
     http://localhost:8080/account/2
 
-# Available Services
+# Service Name
 
 | HTTP  | METHODPATH | USAGE |
 | ------------- | ------------- | ------------- |
