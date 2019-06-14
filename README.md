@@ -40,3 +40,29 @@ H2 in memory database initialized with some sample user and account data To view
 # Run below to start the project
 
 mvn exec:java
+
+
+ # Create user :
+```
+{  
+  "userName":"user1",
+  "emailAddress":"user1@gmail.com"
+} 
+```
+# User Account update :
+```
+{  
+   "userName":"user1",
+   "balance":999.0000,
+   "currencyCode":"INR"
+} 
+```
+# Transaction between 2 Account:
+```
+{  
+   "currencyCode":"INR",
+   "amount":100.00000,
+   "fromAccountId":1,
+   "toAccountId":2
+}
+```
