@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Class-Path: jackson-annotations-2.8.4.jar jackson-jaxrs-json-provider-
+ 2.8.4.jar jackson-jaxrs-base-2.8.4.jar jackson-core-2.8.4.jar jackson
+ -databind-2.8.4.jar jackson-module-jaxb-annotations-2.8.4.jar h2-1.4.
+ 192.jar commons-dbutils-1.6.jar jetty-server-9.2.3.v20140905.jar java
+ x.servlet-api-3.1.0.jar jetty-http-9.2.3.v20140905.jar jetty-util-9.2
+ .3.v20140905.jar jetty-io-9.2.3.v20140905.jar jetty-servlet-9.2.3.v20
+ 140905.jar jetty-security-9.2.3.v20140905.jar jersey-server-2.7.jar j
+ ersey-common-2.7.jar jersey-guava-2.7.jar osgi-resource-locator-1.0.1
+ .jar jersey-client-2.7.jar javax.ws.rs-api-2.0.jar javax.annotation-a
+ pi-1.2.jar hk2-api-2.2.0.jar hk2-utils-2.2.0.jar aopalliance-repackag
+ ed-2.2.0.jar javax.inject-2.2.0.jar hk2-locator-2.2.0.jar javassist-3
+ .18.1-GA.jar validation-api-1.1.0.Final.jar jersey-container-servlet-
+ core-2.7.jar jersey-container-jetty-http-2.7.jar jetty-continuation-9
+ .1.1.v20140108.jar
+Build-Jdk: 1.8.0_171
+Created-By: Maven Integration for Eclipse
+Main-Class: com.src.main.App
+
