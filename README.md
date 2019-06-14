@@ -37,3 +37,6 @@ H2 in memory database initialized with some sample user and account data To view
 | POST | /transaction | perform transaction between 2 user accounts |
 
 
+# Run below to start the project
+
+mvn exec:java
